@@ -1,2 +1,2 @@
-# GPA
-Graphical Password Authentication System App Lock in Android 
+# gpa
+Graphical Password Authentication
