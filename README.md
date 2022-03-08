@@ -1,2 +1,2 @@
-# gpa
+# GPA
 Graphical Password Authentication
